@@ -21,9 +21,10 @@ To empower communities with decentralized decision-making, enabling fair and tra
 - Integrate **automated proposal execution** via smart contracts.
 
 ---
+contact address 0xa3e6E5f1d943aF1775a83D1A8f34350e393E3DEb
+<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/3f7f5499-ad2c-48fe-9a8f-e09743371610" />
 
 ### 🧩 How to Deploy (Example using Hardhat)
 ```bash
-contact address 0xa3e6E5f1d943aF1775a83D1A8f34350e393E3DEb
 npm install --save-dev hardhat
 npx hardhat init
