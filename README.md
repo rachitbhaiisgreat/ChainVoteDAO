@@ -24,5 +24,6 @@ To empower communities with decentralized decision-making, enabling fair and tra
 
 ### 🧩 How to Deploy (Example using Hardhat)
 ```bash
+contact address 0xa3e6E5f1d943aF1775a83D1A8f34350e393E3DEb
 npm install --save-dev hardhat
 npx hardhat init
